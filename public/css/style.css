@@ -1,0 +1,28 @@
+body{
+    margin-left: 30px;
+    color: antiquewhite;
+    background-color: #000000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+ul, li{
+    list-style: square;
+    color: honeydew;
+    margin-left: 10px;
+}
+a{
+    color: honeydew;
+    text-decoration: none;
+}
+div{
+    width: 200px;
+    height: 200px;
+    padding-top: 10px;
+    background-color: darkred;
+    border: 2px, solid,  honeydew;
+    border-radius: 15px;
+}
